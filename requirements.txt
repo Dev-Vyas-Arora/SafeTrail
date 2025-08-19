@@ -6,3 +6,4 @@ geopy
 scikit-learn
 folium
 streamlit-folium
+osrm
