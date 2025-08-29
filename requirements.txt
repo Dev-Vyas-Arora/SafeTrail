@@ -3,6 +3,7 @@ requests
 pandas
 numpy
 geopy
+itertools
 scikit-learn
 folium
 streamlit-folium
